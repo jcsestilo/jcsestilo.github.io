@@ -7,9 +7,19 @@ h1 {
 
 p {
     font-family: Helvetica, Arial, sans-serif;
-    text-indent: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
     font-weight: bold;
     color: #4d1a00;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
 
 body {
