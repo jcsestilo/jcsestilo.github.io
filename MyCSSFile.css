@@ -1,0 +1,17 @@
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: #b33c00;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    text-indent: 50px;
+    font-weight: bold;
+    color: #4d1a00;
+}
+
+body {
+    background-color: #ffeee6;
+}
